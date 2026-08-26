@@ -31,5 +31,13 @@
 	"imports": {
 		"#lib": "./src/lib/index.js",
 		"#lib/*": "./src/lib/*"
+	},
+	"dependencies": {
+		"@dicebear/core": "^10.6.0",
+		"@dicebear/styles": "^10.5.0",
+		"dexie": "^4.4.5",
+		"dexie-encrypted": "^4.2.0-beta.2",
+		"openpgp": "^6.3.1",
+		"peerjs": "^1.5.5"
 	}
 }
