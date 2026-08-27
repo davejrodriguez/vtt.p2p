@@ -1,6 +1,6 @@
 <script lang="ts">
 	import Peer from "peerjs";
-	import { db } from "$lib/db";
+	import { db } from "#lib/db";
 	import { generateKey } from "openpgp";
 
 	let name: string = $state("");
