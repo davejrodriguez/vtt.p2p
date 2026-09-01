@@ -5,7 +5,7 @@
       "type": "node-terminal",
       "request": "launch",
       "name": "Launch Svelte Dev Server",
-      "command": "npm run dev -- --open  "
+      "command": "pnpm dev -- --open  "
     }
   ]
 }
