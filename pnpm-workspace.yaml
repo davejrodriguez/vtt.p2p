@@ -1,2 +1,7 @@
 allowBuilds:
   core-js-bundle: true
+
+packages:
+  - 'apps/*'
+  - 'packages/*'
+  - 'components/*'
